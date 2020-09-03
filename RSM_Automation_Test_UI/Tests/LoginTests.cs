@@ -15,8 +15,6 @@ namespace RSM_Automation_Test_UI.Tests
 
             LoginPage loginPage = new LoginPage(_driver);
             loginPage.Login(validUser);
-
-
         }
     }
 }
